@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AIpiethon
+- 👋 Hi, I’m @Aipiethon
 - 👀 I’m interested in Artifical Inteligence, Raspberry pi's, Python and hardware engeinering 
 - 🌱 I’m currently learning about AI and Python
 - 💞️ I’m looking to collaborate on Ai and Python projects
